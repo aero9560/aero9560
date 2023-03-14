@@ -1,5 +1,8 @@
 ### Hi there 👋
+I'm Abhishak Bhardwaj, currently working as SDE 1 at BIJAK. My work scope include both frontend & backend.
 
+
+I'm open to work,recruiters can contain me 
 <!--
 **aero9560/aero9560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
